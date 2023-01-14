@@ -10,7 +10,11 @@ const dayDifference = timeDifference / (1000 * 3600 * 24);
 const dayResult = dayDifference.toFixed(0);
 document.getElementById("newDate").innerHTML = dayResult + " Days"; 
 
+// Ishwar55lal@gmail.com
 // Ishwar55lal@&&
+
+// dffupdate@gmail.com
+// dffupdate@&&
 
 const weekDifference = timeDifference / (7 * 24 * 60 * 60 * 1000);
 const weekResult = weekDifference.toFixed(0);
